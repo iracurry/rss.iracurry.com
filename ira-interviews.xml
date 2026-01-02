@@ -24,6 +24,8 @@
       href="https://rss.iracurry.com/ira-interviews.xml"
       rel="self"
       type="application/rss+xml" />
+    <!-- WebSub hub for instant feed notifications -->
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
 
     <!-- INTERVIEW 1 -->
     <item>
