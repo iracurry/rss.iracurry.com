@@ -1,8 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/">
+
   <channel>
-    <title>Ira Curry Holdings, Inc. Articles</title>
-    <link>https://news.iracurry.com/</link>
-    <description>In-depth corporate articles published by Ira Curry Holdings, Inc.</description>
+    <title>Ira Curry Holdings Articles</title>
+    <link>https://news.iracurry.com/corporate/</link>
+    <description>
+      Official articles and insights published by Ira Curry Holdings, Inc. Newsroom.
+    </description>
+    <language>en-us</language>
+    <copyright>© 2025 Ira Curry Holdings, Inc.</copyright>
+
+    <managingEditor>press@iracurry.com (Ira Curry Holdings Newsroom)</managingEditor>
+    <webMaster>newsroom@iracurry.com (Ira Curry Holdings Newsroom)</webMaster>
+
+    <lastBuildDate>Sat, 27 Dec 2025 08:00:00 GMT</lastBuildDate>
+
+    <atom:link
+      href="https://rss.iracurry.com/holdings-articles.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+    <!-- ARTICLE 1 -->
+    <item>
+      <title>How Ira Curry Holdings, Inc. Develops Future Business Celebrities</title>
+      <link>https://news.iracurry.com/corporate/archive/articles/how-ira-curry-holdings-develops-future-business-celebrities</link>
+      <guid isPermaLink="true">
+        https://news.iracurry.com/corporate/archive/articles/how-ira-curry-holdings-develops-future-business-celebrities
+      </guid>
+      <pubDate>Sat, 29 Nov 2025 08:00:00 GMT</pubDate>
+
+      <description>
+        This article outlines how Ira Curry Holdings, Inc. develops business leaders through structured systems, mentorship, and operational exposure designed to support visibility, credibility, and long-term influence.
+      </description>
+
+      <category>Corporate Insights</category>
+      <category>Business Leadership</category>
+      <category>Business Celebrity Development</category>
+
+      <dc:creator>Emily Bennett</dc:creator>
+
+      <media:content
+        url="https://images.iracurry.com/newsroom/ira-curry-holdings-inc-newsroom-logo.png"
+        medium="image" />
+    </item>
+
+    <!-- ARTICLE 2 -->
+    <item>
+      <title>How Ira Curry Holdings, Inc. Trains President Trainees for Leadership</title>
+      <link>https://news.iracurry.com/corporate/archive/articles/how-ira-curry-holdings-trains-president-trainees-for-leadership</link>
+      <guid isPermaLink="true">
+        https://news.iracurry.com/corporate/archive/articles/how-ira-curry-holdings-trains-president-trainees-for-leadership
+      </guid>
+      <pubDate>Sat, 27 Dec 2025 08:00:00 GMT</pubDate>
+
+      <description>
+        This article explains how Ira Curry Holdings, Inc. trains President Trainees through structured leadership development, operational responsibility, and governance oversight.
+      </description>
+
+      <category>Corporate Insights</category>
+      <category>Leadership Development</category>
+      <category>President Trainee Program</category>
+
+      <dc:creator>Emily Bennett</dc:creator>
+
+      <media:content
+        url="https://images.iracurry.com/newsroom/ira-curry-holdings-inc-newsroom-logo.png"
+        medium="image" />
+    </item>
+
   </channel>
 </rss>
