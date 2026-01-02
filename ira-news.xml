@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/">
+
   <channel>
     <title>Ira Curry News</title>
     <link>https://news.iracurry.com/</link>
-    <description>Official Ira Curry News RSS Feed</description>
+    <description>
+      Official news and verified updates published by Ira Curry Newsroom.
+    </description>
+    <language>en-us</language>
+    <copyright>© 2025 Ira Curry Holdings, Inc.</copyright>
+
+    <managingEditor>press@iracurry.com (Ira Curry Newsroom)</managingEditor>
+    <webMaster>newsroom@iracurry.com (Ira Curry Newsroom)</webMaster>
+
+    <lastBuildDate>Thu, 18 Dec 2025 16:00:00 GMT</lastBuildDate>
+
+    <atom:link
+      href="https://rss.iracurry.com/ira-news.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+    <!-- ARTICLE 1 -->
+    <item>
+      <title>Where Has Ira Curry Been? Inside the King of Business’ Quiet Power Moves</title>
+      <link>https://news.iracurry.com/category/news/where-has-ira-curry-been-quiet-power-moves</link>
+      <guid isPermaLink="true">
+        https://news.iracurry.com/category/news/where-has-ira-curry-been-quiet-power-moves
+      </guid>
+      <pubDate>Wed, 15 Oct 2025 15:00:00 GMT</pubDate>
+
+      <description>
+        After months of limited public appearances, questions grew around Ira Curry’s absence. According to team officials, the King of Business was completing years of private work now beginning to surface.
+      </description>
+
+      <category>News</category>
+      <category>Entertainment</category>
+      <category>Celebrity</category>
+
+      <dc:creator>Naomi Westbrook</dc:creator>
+
+      <media:content
+        url="https://images.iracurry.com/newsroom/ira-curry-business-celebrity-newsroom-portrait.png"
+        medium="image" />
+    </item>
+
+    <!-- ARTICLE 2 -->
+    <item>
+      <title>Ira Curry Pulls Back the Curtain on the Business Celebrity Movement as Fans React</title>
+      <link>https://news.iracurry.com/category/news/ira-curry-pulls-back-the-curtain-business-celebrity-movement</link>
+      <guid isPermaLink="true">
+        https://news.iracurry.com/category/news/ira-curry-pulls-back-the-curtain-business-celebrity-movement
+      </guid>
+      <pubDate>Wed, 05 Nov 2025 16:00:00 GMT</pubDate>
+
+      <description>
+        Ira Curry reveals the Business Celebrity Movement, prompting immediate reactions from fans as years of private development come into public view.
+      </description>
+
+      <category>News</category>
+      <category>Entertainment</category>
+      <category>Celebrity</category>
+
+      <dc:creator>Naomi Westbrook</dc:creator>
+
+      <media:content
+        url="https://images.iracurry.com/newsroom/ira-curry-business-interview-industry.png"
+        medium="image" />
+    </item>
+
+    <!-- ARTICLE 3 -->
+    <item>
+      <title>Ira Curry Breaks His Silence on a 7-Year Estrangement from Family &amp; Friends (Exclusive)</title>
+      <link>https://news.iracurry.com/category/news/ira-curry-breaks-silence-7-year-estrangement-exclusive</link>
+      <guid isPermaLink="true">
+        https://news.iracurry.com/category/news/ira-curry-breaks-silence-7-year-estrangement-exclusive
+      </guid>
+      <pubDate>Wed, 03 Dec 2025 16:00:00 GMT</pubDate>
+
+      <description>
+        In an exclusive account, Ira Curry discusses the personal sacrifices behind his rise to global recognition, including a seven-year separation from family and friends.
+      </description>
+
+      <category>News</category>
+      <category>Entertainment</category>
+      <category>Celebrity</category>
+
+      <dc:creator>Naomi Westbrook</dc:creator>
+
+      <media:content
+        url="https://images.iracurry.com/newsroom/ira-curry-executive-chairman-business-celebrity-newsroom.png"
+        medium="image" />
+    </item>
+
+    <!-- ARTICLE 4 -->
+    <item>
+      <title>Inside Ira Curry’s Decision to Limit Public Appearances, According to Team Officials</title>
+      <link>https://news.iracurry.com/category/news/why-ira-curry-limits-public-appearances-team-officials</link>
+      <guid isPermaLink="true">
+        https://news.iracurry.com/category/news/why-ira-curry-limits-public-appearances-team-officials
+      </guid>
+      <pubDate>Thu, 18 Dec 2025 16:00:00 GMT</pubDate>
+
+      <description>
+        Team officials outline Ira Curry’s strategic decision to limit public appearances, emphasizing focus and precision while completing long-term business systems.
+      </description>
+
+      <category>News</category>
+      <category>Entertainment</category>
+      <category>Celebrity</category>
+
+      <dc:creator>Naomi Westbrook</dc:creator>
+
+      <media:content
+        url="https://images.iracurry.com/newsroom/ira-curry-founder-ira-curry-holdings-news-article.png"
+        medium="image" />
+    </item>
+
   </channel>
 </rss>
