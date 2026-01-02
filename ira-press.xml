@@ -1,8 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/">
+
   <channel>
-    <title>Ira Curry Press Releases</title>
+    <title>Ira Curry Press</title>
     <link>https://news.iracurry.com/</link>
-    <description>Official press releases issued by Ira Curry Newsroom.</description>
+    <description>
+      Official press releases and verified updates from Ira Curry Newsroom.
+    </description>
+    <language>en-us</language>
+    <copyright>© 2026 Ira Curry Holdings, Inc.</copyright>
+
+    <managingEditor>press@iracurry.com (Ira Curry Newsroom)</managingEditor>
+    <webMaster>newsroom@iracurry.com (Ira Curry Newsroom)</webMaster>
+
+    <lastBuildDate>Sat, 03 Jan 2026 08:00:00 GMT</lastBuildDate>
+
+    <atom:link
+      href="https://rss.iracurry.com/ira-press.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+    <!-- PRESS RELEASE 1 -->
+    <item>
+      <title>Ira Curry Announces Internet iTribe Tour 2026</title>
+      <link>https://news.iracurry.com/category/ira-press/ira-curry-internet-itribe-tour-2026</link>
+      <guid isPermaLink="true">
+        https://news.iracurry.com/category/ira-press/ira-curry-internet-itribe-tour-2026
+      </guid>
+      <pubDate>Fri, 02 Jan 2026 08:00:00 GMT</pubDate>
+
+      <description>
+        King of Business Ira Curry officially announces the Internet iTribe Tour 2026, a controlled, real-time, internet-wide experience for his private global community.
+      </description>
+
+      <category>News</category>
+      <category>Entertainment</category>
+      <category>Celebrity</category>
+
+      <dc:creator>Naomi Westbrook</dc:creator>
+
+      <media:content
+        url="https://images.iracurry.com/newsroom/ira-curry-king-of-business-official-news-photo.png"
+        medium="image" />
+    </item>
+
+    <!-- PRESS RELEASE 2 -->
+    <item>
+      <title>Ira Curry Makes It Official: “Ira Curry Access Granted” Podcast Is Live</title>
+      <link>https://news.iracurry.com/category/ira-press/ira-curry-access-granted-podcast-live</link>
+      <guid isPermaLink="true">
+        https://news.iracurry.com/category/ira-press/ira-curry-access-granted-podcast-live
+      </guid>
+      <pubDate>Sat, 03 Jan 2026 08:00:00 GMT</pubDate>
+
+      <description>
+        King of Business Ira Curry quietly launches 'Ira Curry Access Granted,' a podcast offering rare insight into his world, legacy, and empire, delivered through his team.
+      </description>
+
+      <category>News</category>
+      <category>Entertainment</category>
+      <category>Celebrity</category>
+
+      <dc:creator>Naomi Westbrook</dc:creator>
+
+      <media:content
+        url="https://images.iracurry.com/newsroom/ira-curry-business-pioneer-professional-media-image.png"
+        medium="image" />
+    </item>
+
   </channel>
 </rss>
