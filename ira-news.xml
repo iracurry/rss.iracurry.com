@@ -18,10 +18,13 @@
 
     <lastBuildDate>Thu, 18 Dec 2025 16:00:00 GMT</lastBuildDate>
 
+    <!-- Self reference -->
     <atom:link
       href="https://rss.iracurry.com/ira-news.xml"
       rel="self"
       type="application/rss+xml" />
+    <!-- WebSub hub for instant feed notifications -->
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
 
     <!-- ARTICLE 1 -->
     <item>
