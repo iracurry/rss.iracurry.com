@@ -1,8 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/">
+
   <channel>
-    <title>Ira Curry Holdings, Inc. Press Releases</title>
-    <link>https://news.iracurry.com/</link>
-    <description>Official press releases from Ira Curry Holdings, Inc.</description>
+    <title>Ira Curry Holdings Press Releases</title>
+    <link>https://news.iracurry.com/corporate/</link>
+    <description>
+      Official press releases published by Ira Curry Holdings, Inc. Newsroom.
+    </description>
+    <language>en-us</language>
+    <copyright>© 2026 Ira Curry Holdings, Inc.</copyright>
+
+    <managingEditor>press@iracurry.com (Ira Curry Holdings Newsroom)</managingEditor>
+    <webMaster>newsroom@iracurry.com (Ira Curry Holdings Newsroom)</webMaster>
+
+    <lastBuildDate>Sat, 03 Jan 2026 14:00:00 GMT</lastBuildDate>
+
+    <atom:link
+      href="https://rss.iracurry.com/holdings-press.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+    <!-- PRESS RELEASE 1 -->
+    <item>
+      <title>PRESS RELEASE: Ira Curry Holdings, Inc. Announces Public Access to the Business Celebrity Movement</title>
+      <link>https://news.iracurry.com/corporate/archive/corporate-press/ira-curry-holdings-business-celebrity-movement-public-access</link>
+      <guid isPermaLink="true">
+        https://news.iracurry.com/corporate/archive/corporate-press/ira-curry-holdings-business-celebrity-movement-public-access
+      </guid>
+      <pubDate>Sat, 03 Jan 2026 14:00:00 GMT</pubDate>
+
+      <description>
+        Ira Curry Holdings, Inc. opens structured access to the Business Celebrity Movement, guiding participants from Coach Discovery to Coach Signing and Coach Progression toward professional recognition.
+      </description>
+
+      <category>Corporate News</category>
+      <category>Business</category>
+      <category>Company Announcements</category>
+
+      <dc:creator>Emily Bennett</dc:creator>
+
+      <media:content
+        url="https://images.iracurry.com/newsroom/ira-curry-holdings-inc-newsroom-logo.png"
+        medium="image" />
+    </item>
+
   </channel>
 </rss>
