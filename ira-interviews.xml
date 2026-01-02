@@ -1,67 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/"
-     xmlns:media="http://search.yahoo.com/mrss/"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/">
 
   <channel>
     <title>Ira Curry Interviews</title>
     <link>https://news.iracurry.com/</link>
-    <description>Official interviews featuring Ira Curry, including exclusive conversations, statements, and long-form discussions.</description>
+    <description>
+      Official interviews published by Ira Curry Newsroom.
+    </description>
     <language>en-us</language>
-    <copyright>© Ira Curry</copyright>
-    <managingEditor>newsroom@iracurry.com (Ira Curry Newsroom)</managingEditor>
-    <webMaster>press@iracurry.com (Press Office)</webMaster>
+    <copyright>© 2025 Ira Curry Holdings, Inc.</copyright>
+
+    <managingEditor>press@iracurry.com (Ira Curry Newsroom)</managingEditor>
+    <webMaster>newsroom@iracurry.com (Ira Curry Newsroom)</webMaster>
+
+    <!-- Most recent interview date for lastBuildDate -->
     <lastBuildDate>Sun, 04 Jan 2026 08:00:00 -0800</lastBuildDate>
 
-    <!-- Atom self-reference -->
-    <atom:link href="https://rss.iracurry.com/ira-interviews.xml"
-               rel="self"
-               type="application/rss+xml" />
+    <!-- Self-reference -->
+    <atom:link
+      href="https://rss.iracurry.com/ira-interviews.xml"
+      rel="self"
+      type="application/rss+xml" />
 
-    <!-- ========================== -->
-    <!-- INTERVIEW ITEM 1 -->
-    <!-- ========================== -->
+    <!-- INTERVIEW 1 -->
     <item>
-      <title><![CDATA[INTERVIEW: The Long Road Behind Ira Curry’s Global Business Celebrity Movement]]></title>
+      <title>INTERVIEW: The Long Road Behind Ira Curry’s Global Business Celebrity Movement</title>
       <link>https://news.iracurry.com/category/interviews/the-long-road-behind-ira-currys-business-celebrity-movement</link>
-      <guid isPermaLink="true">https://news.iracurry.com/category/interviews/the-long-road-behind-ira-currys-business-celebrity-movement</guid>
+      <guid isPermaLink="true">
+        https://news.iracurry.com/category/interviews/the-long-road-behind-ira-currys-business-celebrity-movement
+      </guid>
       <pubDate>Fri, 26 Dec 2025 08:00:00 -0800</pubDate>
+
+      <description>
+        Ira Curry shares the challenges and milestones on the path to creating the Business Celebrity Movement, revealing years of dedication, focus, and strategic system building.
+      </description>
+
       <category>Interviews</category>
       <category>Business</category>
       <category>Celebrity</category>
-      <description><![CDATA[Ira Curry shares the challenges and milestones on the path to creating the Business Celebrity Movement, revealing years of dedication, focus, and strategic system building.]]></description>
-      <media:content url="https://images.iracurry.com/newsroom/ira-curry-media-appearance-business-interview.png" medium="image" />
+
+      <dc:creator>Naomi Westbrook</dc:creator>
+
+      <media:content
+        url="https://images.iracurry.com/newsroom/ira-curry-media-appearance-business-interview.png"
+        medium="image" />
     </item>
 
-    <!-- ========================== -->
-    <!-- INTERVIEW ITEM 2 -->
-    <!-- ========================== -->
+    <!-- INTERVIEW 2 -->
     <item>
-      <title><![CDATA[INTERVIEW: Ira Curry Reflects on Life Before Fame and His Rise to the King of Business]]></title>
+      <title>INTERVIEW: Ira Curry Reflects on Life Before Fame and His Rise to the King of Business</title>
       <link>https://news.iracurry.com/category/interviews/ira-curry-life-before-fame-rise-to-king-of-business</link>
-      <guid isPermaLink="true">https://news.iracurry.com/category/interviews/ira-curry-life-before-fame-rise-to-king-of-business</guid>
-      <pubDate>Thu, 02 Jan 2026 08:00:00 -0600</pubDate>
+      <guid isPermaLink="true">
+        https://news.iracurry.com/category/interviews/ira-curry-life-before-fame-rise-to-king-of-business
+      </guid>
+      <pubDate>Fri, 02 Jan 2026 08:00:00 -0800</pubDate>
+
+      <description>
+        Ira Curry opens up about the years leading to his rise to Celebrity Coach and the King of Business title, sharing insights into his long journey, preparation, and breakthrough moments.
+      </description>
+
       <category>Interviews</category>
       <category>Business</category>
       <category>Celebrity</category>
-      <description><![CDATA[Ira Curry opens up about the years leading to his rise to Celebrity Coach and the King of Business title, sharing insights into his long journey, preparation, and breakthrough moments.]]></description>
-      <media:content url="https://images.iracurry.com/newsroom/ira-curry-american-chairman-official-press-photo.png" medium="image" />
+
+      <dc:creator>Naomi Westbrook</dc:creator>
+
+      <media:content
+        url="https://images.iracurry.com/newsroom/ira-curry-american-chairman-official-press-photo.png"
+        medium="image" />
     </item>
 
-    <!-- ========================== -->
-    <!-- INTERVIEW ITEM 3 -->
-    <!-- ========================== -->
+    <!-- INTERVIEW 3 -->
     <item>
-      <title><![CDATA[INTERVIEW: Inside a Day in the Life of King of Business Ira Curry]]></title>
+      <title>INTERVIEW: Inside a Day in the Life of King of Business Ira Curry</title>
       <link>https://news.iracurry.com/category/interviews/day-in-the-life-king-of-business-ira-curry</link>
-      <guid isPermaLink="true">https://news.iracurry.com/category/interviews/day-in-the-life-king-of-business-ira-curry</guid>
-      <pubDate>Sun, 04 Jan 2026 08:00:00 -0600</pubDate>
+      <guid isPermaLink="true">
+        https://news.iracurry.com/category/interviews/day-in-the-life-king-of-business-ira-curry
+      </guid>
+      <pubDate>Sun, 04 Jan 2026 08:00:00 -0800</pubDate>
+
+      <description>
+        A behind-the-scenes look at a typical day for Ira Curry, King of Business and Business Celebrity, showcasing strategic planning, content creation, mentorship, and fan engagement.
+      </description>
+
       <category>Interviews</category>
       <category>Business</category>
       <category>Celebrity</category>
-      <description><![CDATA[A behind-the-scenes look at a typical day for Ira Curry, King of Business and Business Celebrity, showcasing strategic planning, content creation, mentorship, and fan engagement.]]></description>
-      <media:content url="https://images.iracurry.com/newsroom/ira-curry-public-figure-business-icon-newsroom.png" medium="image" />
+
+      <dc:creator>Naomi Westbrook</dc:creator>
+
+      <media:content
+        url="https://images.iracurry.com/newsroom/ira-curry-public-figure-business-icon-newsroom.png"
+        medium="image" />
     </item>
 
   </channel>
