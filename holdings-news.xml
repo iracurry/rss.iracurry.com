@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/">
+
   <channel>
-    <title>Ira Curry Holdings, Inc. News</title>
-    <link>https://news.iracurry.com/</link>
-    <description>Official news and company updates from Ira Curry Holdings, Inc.</description>
+    <title>Ira Curry Holdings News</title>
+    <link>https://news.iracurry.com/corporate/</link>
+    <description>
+      Official news and verified updates published by Ira Curry Holdings, Inc. Newsroom.
+    </description>
+    <language>en-us</language>
+    <copyright>© 2025 Ira Curry Holdings, Inc.</copyright>
+
+    <managingEditor>press@iracurry.com (Ira Curry Holdings Newsroom)</managingEditor>
+    <webMaster>newsroom@iracurry.com (Ira Curry Holdings Newsroom)</webMaster>
+
+    <lastBuildDate>Thu, 11 Dec 2025 08:00:00 GMT</lastBuildDate>
+
+    <atom:link
+      href="https://rss.iracurry.com/holdings-news.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+    <!-- ARTICLE 1 -->
+    <item>
+      <title>Ira Curry Holdings, Inc. Finalizes the Business Celebrity Movement</title>
+      <link>https://news.iracurry.com/corporate/archive/news/ira-curry-holdings-finalizes-business-celebrity-movement</link>
+      <guid isPermaLink="true">
+        https://news.iracurry.com/corporate/archive/news/ira-curry-holdings-finalizes-business-celebrity-movement
+      </guid>
+      <pubDate>Thu, 09 Oct 2025 08:00:00 GMT</pubDate>
+
+      <description>
+        Ira Curry Holdings, Inc. announced the completion of all systems, processes, and governance structures supporting the Business Celebrity Movement, marking the transition from development to full company-wide execution.
+      </description>
+
+      <category>Corporate News</category>
+      <category>Business</category>
+      <category>Business Celebrity Movement</category>
+
+      <dc:creator>Emily Bennett</dc:creator>
+
+      <media:content
+        url="https://images.iracurry.com/newsroom/ira-curry-holdings-inc-newsroom-logo.png"
+        medium="image" />
+    </item>
+
+    <!-- ARTICLE 2 -->
+    <item>
+      <title>Ira Curry Holdings, Inc. Expands Operations Across All 50 U.S. States</title>
+      <link>https://news.iracurry.com/corporate/archive/news/ira-curry-holdings-expands-operations-all-50-states</link>
+      <guid isPermaLink="true">
+        https://news.iracurry.com/corporate/archive/news/ira-curry-holdings-expands-operations-all-50-states
+      </guid>
+      <pubDate>Thu, 23 Oct 2025 08:00:00 GMT</pubDate>
+
+      <description>
+        Ira Curry Holdings, Inc. confirmed the expansion of its operational infrastructure across all 50 U.S. states, strengthening nationwide access to its systems, programs, and leadership pathways.
+      </description>
+
+      <category>Corporate News</category>
+      <category>Business</category>
+      <category>Operational Expansion</category>
+
+      <dc:creator>Emily Bennett</dc:creator>
+
+      <media:content
+        url="https://images.iracurry.com/newsroom/ira-curry-holdings-inc-newsroom-logo.png"
+        medium="image" />
+    </item>
+
+    <!-- ARTICLE 3 -->
+    <item>
+      <title>Ira Curry Holdings, Inc. Introduces President Trainee Program</title>
+      <link>https://news.iracurry.com/corporate/archive/news/ira-curry-holdings-introduces-president-trainee-program</link>
+      <guid isPermaLink="true">
+        https://news.iracurry.com/corporate/archive/news/ira-curry-holdings-introduces-president-trainee-program
+      </guid>
+      <pubDate>Thu, 13 Nov 2025 08:00:00 GMT</pubDate>
+
+      <description>
+        Ira Curry Holdings, Inc. announced the introduction of its President Trainee Program, establishing a structured internal leadership pipeline designed to develop future executives through operational experience and governance training.
+      </description>
+
+      <category>Corporate News</category>
+      <category>Business</category>
+      <category>Leadership Development</category>
+
+      <dc:creator>Emily Bennett</dc:creator>
+
+      <media:content
+        url="https://images.iracurry.com/newsroom/ira-curry-holdings-inc-newsroom-logo.png"
+        medium="image" />
+    </item>
+
+    <!-- ARTICLE 4 -->
+    <item>
+      <title>Ira Curry Holdings, Inc. Reports Company Progress and Growth for 2025</title>
+      <link>https://news.iracurry.com/corporate/archive/news/ira-curry-holdings-reports-company-progress-2025</link>
+      <guid isPermaLink="true">
+        https://news.iracurry.com/corporate/archive/news/ira-curry-holdings-reports-company-progress-2025
+      </guid>
+      <pubDate>Thu, 11 Dec 2025 08:00:00 GMT</pubDate>
+
+      <description>
+        Ira Curry Holdings, Inc. released its 2025 company update outlining operational progress, leadership development milestones, and sustained growth across its national business portfolio.
+      </description>
+
+      <category>Corporate News</category>
+      <category>Business</category>
+      <category>Company Progress</category>
+
+      <dc:creator>Emily Bennett</dc:creator>
+
+      <media:content
+        url="https://images.iracurry.com/newsroom/ira-curry-holdings-inc-newsroom-logo.png"
+        medium="image" />
+    </item>
+
   </channel>
 </rss>
