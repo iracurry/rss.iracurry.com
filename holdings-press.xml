@@ -18,10 +18,16 @@
 
     <lastBuildDate>Sat, 03 Jan 2026 14:00:00 GMT</lastBuildDate>
 
+    <!-- RSS Self Reference -->
     <atom:link
       href="https://rss.iracurry.com/holdings-press.xml"
       rel="self"
       type="application/rss+xml" />
+
+    <!-- WebSub Hub -->
+    <atom:link
+      rel="hub"
+      href="https://pubsubhubbub.appspot.com/" />
 
     <!-- PRESS RELEASE 1 -->
     <item>
